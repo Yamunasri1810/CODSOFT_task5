@@ -6,7 +6,7 @@ Step 1: Problem Definition
 Predicting whether the Transaction is fraudless or fraud transaction.
 
 Step 2: Data Collection
-Collect the , and reading the data using the panda library.
+Collect the credit card dataset, and reading the data using the panda library.
 
 Step 3: Data Exploration and Cleaning
 Exploring the data to understand its structure, summary statistics, and identify missing values.
